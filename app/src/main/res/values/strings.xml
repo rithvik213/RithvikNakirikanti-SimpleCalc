@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">simplecalc</string>
+    <string name="app_name">RithvikNakirikanti-SimpleCalc</string>
     <string name="calculate">CALCULATE</string>
     <string-array name="operations">
         <item>Addition</item>
